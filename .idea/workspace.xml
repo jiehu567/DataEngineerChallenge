@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RunManager">
+    <configuration name="ELBLogAnalyzer" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="challenge.main.ELBLogAnalyzer" />
+      <module name="PayPayDataChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenge.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ELBLogAnalyzer" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>

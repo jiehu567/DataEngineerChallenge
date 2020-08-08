@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/Jessie/Documents/InterviewTemp/PayPayDataChallenge/target/scala-2.12/paypaydatachallenge_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paypay[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jessie/Documents/InterviewTemp/PayPayDataChallenge/target/scala-2.12/classes/paypay[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paypay/challenge[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jessie/Documents/InterviewTemp/PayPayDataChallenge/target/scala-2.12/classes/paypay/challenge[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paypay/challenge/main[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jessie/Documents/InterviewTemp/PayPayDataChallenge/target/scala-2.12/classes/paypay/challenge/main[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paypay/challenge/main/Utility$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jessie/Documents/InterviewTemp/PayPayDataChallenge/target/scala-2.12/classes/paypay/challenge/main/Utility$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paypay/challenge/main/Utility$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jessie/Documents/InterviewTemp/PayPayDataChallenge/target/scala-2.12/classes/paypay/challenge/main/Utility$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paypay/challenge/main/Utility.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jessie/Documents/InterviewTemp/PayPayDataChallenge/target/scala-2.12/classes/paypay/challenge/main/Utility.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paypay/challenge/main/Utility$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jessie/Documents/InterviewTemp/PayPayDataChallenge/target/scala-2.12/classes/paypay/challenge/main/Utility$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	paypay/challenge/main/Utility$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jessie/Documents/InterviewTemp/PayPayDataChallenge/target/scala-2.12/classes/paypay/challenge/main/Utility$$typecreator3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	challenge[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jessie/Documents/InterviewTemp/PayPayDataChallenge/target/scala-2.12/classes/challenge[0m
+[0m[[0m[0mdebug[0m] [0m[0m	challenge/main[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jessie/Documents/InterviewTemp/PayPayDataChallenge/target/scala-2.12/classes/challenge/main[0m
+[0m[[0m[0mdebug[0m] [0m[0m	challenge/main/ELBLogAnalyzer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jessie/Documents/InterviewTemp/PayPayDataChallenge/target/scala-2.12/classes/challenge/main/ELBLogAnalyzer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	challenge/main/SchemaConfig$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jessie/Documents/InterviewTemp/PayPayDataChallenge/target/scala-2.12/classes/challenge/main/SchemaConfig$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	challenge/main/SchemaConfig.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jessie/Documents/InterviewTemp/PayPayDataChallenge/target/scala-2.12/classes/challenge/main/SchemaConfig.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	challenge/main/ELBLogAnalyzerEDA$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jessie/Documents/InterviewTemp/PayPayDataChallenge/target/scala-2.12/classes/challenge/main/ELBLogAnalyzerEDA$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	challenge/main/ELBLogAnalyzer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jessie/Documents/InterviewTemp/PayPayDataChallenge/target/scala-2.12/classes/challenge/main/ELBLogAnalyzer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	challenge/main/ELBLogAnalyzerEDA.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Jessie/Documents/InterviewTemp/PayPayDataChallenge/target/scala-2.12/classes/challenge/main/ELBLogAnalyzerEDA.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
